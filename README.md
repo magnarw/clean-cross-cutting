@@ -7,5 +7,6 @@ MediatR is a great library and pattern for creating a loosly coupling applicatio
 Every "command" and "response" between the different parts of our system will go through central mediater. 
 As a very cool side effect MediatR allows use to create pipeline behaviours that can allow us to create a aspect oriented programming style; cross cutting concenrs like logging is handled by the framework. 
 
+In this demo we are using the IOC-container in aspx .net core 3  
 
 
